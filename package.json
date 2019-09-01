@@ -1,0 +1,20 @@
+{
+  "name": "WebShell查杀",
+  "name_en": "ScanWebShell",
+  "main": "index.js",
+  "icon": "search",
+  "version": "0.1",
+  "description": "安全套件之WebShell查杀",
+  "description_en": "A tool to scan webshell for Sec",
+  "author": {
+    "name": "Virink",
+    "email": "virink@outlook.com"
+  },
+  "category": "安全工具",
+  "category_en": "SecTool",
+  "multiple": false,
+  "global": false,
+  "scripts": [
+    "php"
+  ]
+}
