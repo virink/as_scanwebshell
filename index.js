@@ -13,7 +13,7 @@ class Plugin {
 
     // Create window
     let win = new WIN({
-      title: `${LANG['title']} - Happy CTF!`,
+      title: `${LANG['title']}`,
       height: 428,
       width: 488,
     });
