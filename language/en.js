@@ -5,4 +5,9 @@ module.exports = {
   toolbar: {
     start: "Start"
   },
+  grid: {
+    name: "File",
+    line: "Line",
+    code: "Code",
+  },
 }
